@@ -17,7 +17,7 @@ App {
      // handle touch/click on full page
      MouseArea {
        anchors.fill: parent
-       onClicked: clickCount = clickCount + 5 // AppText updates automatically
+       onClicked: clickCount = clickCount + 6 // AppText updates automatically
      }
    }
  }
